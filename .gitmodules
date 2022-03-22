@@ -1,0 +1,4 @@
+[submodule "generator"]
+	path = generator
+	url = git@github.com:MorphStore/TVLGenerator.git
+	branch = main
